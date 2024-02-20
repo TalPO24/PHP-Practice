@@ -12,7 +12,9 @@
 
     <h1>Content from e-commerce.php</h1>
     <?php include 'e-commerce.php'; ?>
+    
+    <h1>Content from PHP Variables.php</h1>
+    <?php include 'PHP Variables.php'; ?>
 
-    <?php include 'Tutorial.php'; ?>
 </body>
 </html>
